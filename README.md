@@ -248,7 +248,7 @@ Incluye información sobre:
 
 # 👨‍💻 Autores
 
--Oscar Edy Vilca Quispe
--Rodrigo Bernardo Condori Gutierrez
+1. Oscar Edy Vilca Quispe
+2. Rodrigo Bernardo Condori Gutierrez
 
 Proyecto Final de Ciencia de Datos - 2026
