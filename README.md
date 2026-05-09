@@ -246,8 +246,9 @@ Incluye información sobre:
 - Importes de venta
 - Estado de documentos comerciales
 
-# 👨‍💻 Autor
+# 👨‍💻 Autores
 
 **Oscar Edy Vilca Quispe**
+**Rodrigo Bernardo Condori Gutierrez**
 
 Proyecto Final de Ciencia de Datos - 2026
