@@ -82,6 +82,9 @@ Análisis visual del comportamiento de ventas por periodo.
 
 Determinación de los productos con mayor cantidad comercializada.
 
+<img width="1102" height="543" alt="image" src="https://github.com/user-attachments/assets/1471950c-d361-47c2-b69f-7cca1ccaf5b4" />
+
+
 ---
 
 ## 🌎 Top 10 provincias con mayor volumen de ventas
@@ -96,6 +99,7 @@ Comparación geográfica del rendimiento comercial.
 ## 🥇 Categoría con mayor volumen de ventas
 
 Análisis de la categoría dominante en ventas.
+
 
 ---
 
