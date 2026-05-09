@@ -10,9 +10,10 @@ El proyecto incluye procesos de:
 - Transformación de datos
 - Análisis exploratorio (EDA)
 - Visualización de datos
-- Interpretación comercial
 
-El análisis fue desarrollado utilizando Python en Google Colab.
+El análisis fue desarrollado utilizando Python en Google Colab en el siguiente enlace.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10MPB9fch3A2Sn4knqRFuJkx9XxOZaMgI?usp=sharing)
 
 ---
 
