@@ -106,6 +106,9 @@ Análisis específico por provincia.
 
 Comparación regional de comportamiento comercial.
 
+<img width="825" height="546" alt="image" src="https://github.com/user-attachments/assets/d9dcf256-b2eb-44de-baaf-7ecdd14f960a" />
+
+
 ---
 
 
