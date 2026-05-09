@@ -149,11 +149,6 @@ Comparación regional de comportamiento comercial.
 
 ---
 
-# 👨‍💻 Autor
-
-**Edy Vilca**
-
-Proyecto Final de Ciencia de Datos - 2026
 # 📘 Diccionario de Datos
 
 ## 📊 Dataset: Cubo de Ventas 2025 - Empresa Distribuidora Nestlé
@@ -215,3 +210,9 @@ Incluye información sobre:
 - Ubicación geográfica
 - Importes de venta
 - Estado de documentos comerciales
+
+# 👨‍💻 Autor
+
+**Edy Vilca**
+
+Proyecto Final de Ciencia de Datos - 2026
