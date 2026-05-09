@@ -49,7 +49,6 @@ Se realizaron los siguientes procesos:
 - Validación de datos nulos
 - Eliminación de duplicados
 - Conversión de variables binarias
-- Encriptación de campos sensibles
 
 ---
 
@@ -109,20 +108,6 @@ Comparación regional de comportamiento comercial.
 
 ---
 
-# 📂 Estructura del Proyecto
-
-```bash
-📁 proyecto-ciencia-datos
-│
-├── 📄 README.md
-├── 📄 ventas2025.csv
-├── 📄 analisis.ipynb
-├── 📁 graficos
-├── 📁 dataset_limpio
-└── 📁 resultados
-```
-
----
 
 # 📌 Variables Analizadas
 
