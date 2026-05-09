@@ -1,71 +1,116 @@
-📊 Análisis del Cubo de Ventas 2025 - Empresa Distribuidora de  Nestlé
-📌 Descripción del Proyecto
+# 📊 ANALISIS DEL CUBO DE VENTAS DEL PERIODO 2025 DE UNA EMPRESA DISTRIBUIDORA DE LA MARCA NESTLE
 
-Este proyecto corresponde al análisis exploratorio de datos (EDA) del cubo de ventas del periodo 2025 de una empresa distribuidora de productos de la marca Nestlé.
+## 📌 Descripción
 
-El objetivo principal fue realizar procesos de limpieza, transformación y visualización de datos utilizando herramientas de Ciencia de Datos en Python para identificar patrones comerciales, tendencias de ventas y comportamiento de categorías, vendedores y provincias.
+Proyecto final de Ciencia de Datos enfocado en el análisis exploratorio del cubo de ventas del periodo 2025 de una empresa distribuidora de productos de la marca Nestlé.
 
-🎯 Objetivos
-Analizar el comportamiento de ventas durante el periodo 2025.
-Identificar las categorías y productos con mayor volumen de ventas.
-Evaluar el desempeño comercial de vendedores y provincias.
-Detectar tendencias mensuales en las ventas.
-Generar visualizaciones para facilitar la interpretación de datos.
-🛠️ Tecnologías Utilizadas
-Python
-pandas
-NumPy
-Matplotlib
-Seaborn
-Google Colab
-GitHub
-🧹 Procesos Realizados
-🔹 Limpieza de Datos
-Eliminación de columnas innecesarias
-Conversión de tipos de datos
-Tratamiento de fechas
-Estandarización de nombres de columnas
-Conversión de estados a variables binarias
-Validación de datos nulos y duplicados
-Encriptación de campos sensibles
-📈 Análisis Realizados
-📊 Evolución de ventas por mes
+El proyecto incluye procesos de:
 
-Análisis temporal del comportamiento mensual de las ventas durante el año 2025.
+- Limpieza de datos
+- Transformación de datos
+- Análisis exploratorio (EDA)
+- Visualización de datos
+- Interpretación comercial
 
-🏆 Top 10 vendedores por volumen de ventas
+El análisis fue desarrollado utilizando Python en Google Colab.
 
-Identificación de los vendedores con mayor importe total de ventas.
+---
 
-📉 Gráfico de dispersión: Importe Total vs Mes
+# 🎯 Objetivos
 
-Visualización de la distribución de ventas por periodo mensual.
+- Analizar el comportamiento de ventas durante el periodo 2025.
+- Identificar productos y categorías con mayor volumen de ventas.
+- Evaluar el desempeño de vendedores.
+- Analizar ventas por provincias.
+- Generar visualizaciones para la toma de decisiones.
 
-📦 Productos más vendidos
+---
 
-Análisis de los productos con mayor cantidad comercializada.
+# 🛠️ Tecnologías Utilizadas
 
-🌎 Top 10 provincias con mayor volumen de ventas
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Google Colab
+- GitHub
 
-Comparación geográfica del desempeño comercial por provincias.
+---
 
-🥇 Categoría con mayor volumen de ventas
+# 🧹 Limpieza de Datos
 
-Determinación de la categoría dominante en ventas.
+Se realizaron los siguientes procesos:
 
-📅 Categoría más vendida por mes
+- Eliminación de columnas innecesarias
+- Conversión de tipos de datos
+- Tratamiento de fechas
+- Validación de datos nulos
+- Eliminación de duplicados
+- Conversión de variables binarias
+- Encriptación de campos sensibles
 
-Análisis mensual de categorías con mayor facturación.
+---
 
-📍 Categorías más vendidas por mes en San Román
+# 📈 Análisis Realizados
 
-Evaluación específica de comportamiento comercial en la provincia de San Román.
+## 📊 Evolución de ventas por mes
 
-📍 Categorías más vendidas por mes en Puno
+Análisis temporal de las ventas durante el año 2025.
 
-Análisis comparativo de categorías líderes en la provincia de Puno.
+---
 
-📂 Estructura del Proyecto
+## 🏆 Top 10 vendedores por volumen de ventas
+
+Identificación de los vendedores con mejor desempeño comercial.
+
+---
+
+## 📉 Gráfico de dispersión entre Importe Total y Mes
+
+Análisis visual del comportamiento de ventas por periodo.
+
+---
+
+## 📦 Productos más vendidos
+
+Determinación de los productos con mayor cantidad comercializada.
+
+---
+
+## 🌎 Top 10 provincias con mayor volumen de ventas
+
+Comparación geográfica del rendimiento comercial.
+
+---
+
+## 🥇 Categoría con mayor volumen de ventas
+
+Análisis de la categoría dominante en ventas.
+
+---
+
+## 📅 Categoría más vendida por mes
+
+Evaluación mensual de categorías líderes.
+
+---
+
+## 📍 Categorías más vendidas por mes en San Román
+
+Análisis específico por provincia.
+
+---
+
+## 📍 Categorías más vendidas por mes en Puno
+
+Comparación regional de comportamiento comercial.
+
+---
+
+# 📂 Estructura del Proyecto
+
+```bash
 📁 proyecto-ciencia-datos
 │
 ├── 📄 README.md
@@ -74,28 +119,38 @@ Análisis comparativo de categorías líderes en la provincia de Puno.
 ├── 📁 graficos
 ├── 📁 dataset_limpio
 └── 📁 resultados
-📌 Variables Analizadas
-Año
-Mes
-Documento_Estado
-Cliente_Provincia
-Cliente_Departamento
-Categoria_detalle
-Producto_Detalle
-Producto_Cantidad
-Importe_Total
-Vendedor_Nombre
-Proveedor
-📊 Resultados Esperados
+```
 
-El análisis permite:
+---
 
-Identificar tendencias de ventas
-Mejorar la toma de decisiones comerciales
-Detectar categorías estratégicas
-Evaluar desempeño de vendedores
-Analizar comportamiento regional de ventas
-🚀 Autor
+# 📌 Variables Analizadas
 
-Edy Vilca
+- Año
+- Mes
+- Documento_Estado
+- Cliente_Provincia
+- Cliente_Departamento
+- Categoria_detalle
+- Producto_Detalle
+- Producto_Cantidad
+- Importe_Total
+- Vendedor_Nombre
+- Proveedor
+
+---
+
+# 📊 Resultados Esperados
+
+- Identificación de tendencias comerciales
+- Evaluación de desempeño de ventas
+- Detección de categorías estratégicas
+- Análisis regional de ventas
+- Soporte para toma de decisiones
+
+---
+
+# 👨‍💻 Autor
+
+**Edy Vilca**
+
 Proyecto Final de Ciencia de Datos - 2026
