@@ -58,17 +58,23 @@ Se realizaron los siguientes procesos:
 
 Análisis temporal de las ventas durante el año 2025.
 
+<img width="948" height="456" alt="ventas_mes" src="https://github.com/user-attachments/assets/99971bbb-717c-43f1-b6c4-e0cb433363f2" />
+
 ---
 
 ## 🏆 Top 10 vendedores por volumen de ventas
 
 Identificación de los vendedores con mejor desempeño comercial.
 
+<img width="1107" height="532" alt="top_10" src="https://github.com/user-attachments/assets/4014effe-16f7-48d1-a463-45b502932a87" />
+
 ---
 
 ## 📉 Gráfico de dispersión entre Importe Total y Mes
 
 Análisis visual del comportamiento de ventas por periodo.
+
+<img width="946" height="463" alt="disper" src="https://github.com/user-attachments/assets/401991f9-ee42-409d-b246-d05f3aa7d5bb" />
 
 ---
 
@@ -82,6 +88,9 @@ Determinación de los productos con mayor cantidad comercializada.
 
 Comparación geográfica del rendimiento comercial.
 
+<img width="1108" height="546" alt="prov" src="https://github.com/user-attachments/assets/d9473729-e3cb-4409-94e1-3faeb1c08857" />
+
+
 ---
 
 ## 🥇 Categoría con mayor volumen de ventas
@@ -94,11 +103,15 @@ Análisis de la categoría dominante en ventas.
 
 Evaluación mensual de categorías líderes.
 
+<img width="700" height="644" alt="cate" src="https://github.com/user-attachments/assets/d48e9ad2-e6e0-4dee-8a2b-c6463049d4ff" />
+
 ---
 
 ## 📍 Categorías más vendidas por mes en San Román
 
 Análisis específico por provincia.
+
+<img width="1265" height="628" alt="juliaca" src="https://github.com/user-attachments/assets/4631b037-3379-4b3d-af07-9be0cfbae41b" />
 
 ---
 
@@ -106,8 +119,7 @@ Análisis específico por provincia.
 
 Comparación regional de comportamiento comercial.
 
-<img width="825" height="546" alt="image" src="https://github.com/user-attachments/assets/d9dcf256-b2eb-44de-baaf-7ecdd14f960a" />
-
+<img width="1254" height="626" alt="puno" src="https://github.com/user-attachments/assets/d4f071c1-b9eb-4cf6-9cfa-647d5572c93d" />
 
 ---
 
