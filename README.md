@@ -127,6 +127,36 @@ Comparación regional de comportamiento comercial.
 
 ---
 
+## 💡 Análisis de Pareto (Top 20 Productos)
+Descripción: Aplicación de la Ley de Pareto (80/20) sobre el catálogo de productos. Este gráfico identifica los SKU críticos que representan la mayor concentración de ingresos, permitiendo optimizar políticas de inventario y priorización logística.
+
+<img width="595" height="256" alt="Gráfico de Pareto Ventas por Producto Top 20" src="https://github.com/user-attachments/assets/d46aaa40-ee16-4091-a295-427fd9309075" />
+
+---
+## 💡 Jerarquía de Ingresos por Categoría
+Descripción: Distribución del ingreso total acumulado segmentado por tipo de cliente. Revela el peso financiero de cada canal, destacando la paridad estratégica entre el sector Mayorista (valor) y el Minorista (capilaridad de mercado).
+
+<img width="620" height="308" alt="jerarquia de clientes" src="https://github.com/user-attachments/assets/2bddc0fc-6b80-4c93-938f-954e926b6724" />
+
+---
+## 💡 Ticket Promedio vs. Carga Operativa (Volumen)
+Descripción: Análisis comparativo entre el valor transaccional medio y la frecuencia de facturación. Se utiliza una escala logarítmica para normalizar la dispersión, evidenciando la dualidad entre la eficiencia del canal mayorista y la alta demanda de procesamiento del canal minorista (330k+ facturas).
+
+<img width="713" height="365" alt="ticket_promedio_volumen" src="https://github.com/user-attachments/assets/e72a9022-49f7-4460-81c1-4c3ff15e9309" />
+
+---
+## 💡 Eficiencia Regional (Puno vs. San Román)
+Descripción: Evaluación geográfica del ticket promedio comparado con la media regional ($S/. 81.34$). El análisis identifica a San Román como el hub de mayor eficiencia transaccional, superando el promedio general y marcando una pauta para la optimización de rutas logísticas.
+
+<img width="523" height="314" alt="Comparativa Ticket Promedio por Provincia vs Promedio General" src="https://github.com/user-attachments/assets/b5fc7f67-944e-40f9-bd6e-c81ddf836d92" />
+
+---
+## 💡 Mapa de Comportamiento de Compra (Scatter Plot)
+Descripción: Visualización de dispersión bi-logarítmica mediante feature engineering (Precio Unitario vs. Cantidad). Este modelo permite identificar clusters de comportamiento de compra, detectar outliers y auditar la integridad de los datos de facturación en tiempo real.
+
+<img width="518" height="342" alt="mapa_de_comportamiento" src="https://github.com/user-attachments/assets/a9203859-c811-42d3-9a59-59b51ee45f61" />
+
+---
 
 # 📌 Variables Analizadas
 
