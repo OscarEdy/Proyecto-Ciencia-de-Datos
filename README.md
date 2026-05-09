@@ -154,3 +154,64 @@ Comparación regional de comportamiento comercial.
 **Edy Vilca**
 
 Proyecto Final de Ciencia de Datos - 2026
+# 📘 Diccionario de Datos
+
+## 📊 Dataset: Cubo de Ventas 2025 - Empresa Distribuidora Nestlé
+
+| Variable | Descripción | Tipo de Dato | Ejemplo |
+|---|---|---|---|
+| Año | Año correspondiente al registro de venta | int64 | 2025 |
+| Mes | Mes correspondiente al registro de venta | int64 | 1 |
+| Documento_Estado | Estado del documento (1 = Activo, 0 = Anulado) | int64 | 1 |
+| Pedido | Número o referencia del pedido/comprobante | object | Pedido/ B301-0924174 |
+| Documento_Fecha | Fecha del documento de venta | datetime64 | 2026-05-09 |
+| Cliente_Codigo | Código único del cliente | object | 9690 |
+| Cliente_Distrito | Distrito del cliente | object | JULIACA |
+| Cliente_Categoria | Categoría comercial del cliente | object | MINORISTA |
+| Cliente_Giro | Giro comercial del cliente | object | BODEGA |
+| Almacen_Detalle | Nombre del almacén o línea comercial | object | NESTLE |
+| Categoria_codigo | Código de la categoría del producto | int64 | 10 |
+| Categoria_detalle | Nombre de la categoría del producto | object | CHOCOLATES |
+| subcategoria_codigo | Código de la subcategoría del producto | int64 | 101 |
+| subcategoria_detalle | Nombre de la subcategoría del producto | object | GALLETAS |
+| Producto_Codigo | Código único del producto | object | 123456 |
+| Producto_Detalle | Nombre o descripción del producto | object | MILO 200G |
+| Producto_presentacion | Presentación del producto | object | UNIDAD |
+| Producto_Cantidad | Cantidad vendida del producto | float64 | 18.000000 |
+| Importe_Total | Importe total de la venta | float64 | 30.59 |
+| Vendedor_Codigo | Código del vendedor | object | VN063 |
+| Vendedor_Nombre | Nombre del vendedor | object | PRISCA ROJAS |
+| Vendedor_Ciudad | Ciudad asignada al vendedor | object | JULIACA |
+| Proveedor | Nombre del proveedor | object | NESTLE PERU S A |
+| MotivoAnulacion | Motivo de anulación o error del documento | object | error |
+| Importe_ValorVenta | Valor neto de la venta sin impuestos | float64 | 25.923729 |
+| Cliente_Provincia | Provincia del cliente | object | SAN ROMAN |
+| Cliente_Departamento | Departamento del cliente | object | PUNO |
+
+---
+
+# 📌 Tipos de Datos Utilizados
+
+| Tipo | Descripción |
+|---|---|
+| int64 | Números enteros |
+| float64 | Números decimales |
+| object | Texto o cadenas de caracteres |
+| datetime64 | Fechas y tiempo |
+
+---
+
+# 📊 Descripción General del Dataset
+
+El dataset contiene información relacionada a las ventas realizadas durante el periodo 2025 por una empresa distribuidora de productos de la marca Nestlé.
+
+Incluye información sobre:
+
+- Ventas
+- Clientes
+- Productos
+- Categorías
+- Vendedores
+- Ubicación geográfica
+- Importes de venta
+- Estado de documentos comerciales
