@@ -199,6 +199,6 @@ Incluye información sobre:
 
 # 👨‍💻 Autor
 
-**Edy Vilca**
+**Oscar Edy Vilca Quispe**
 
 Proyecto Final de Ciencia de Datos - 2026
